@@ -1,4 +1,4 @@
-package ForLoop;
+package Loops;
 
 public class FibonacciNumber {
     public static void main(String[] args) {

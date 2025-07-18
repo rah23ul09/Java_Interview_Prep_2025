@@ -1,4 +1,4 @@
-package ForLoop;
+package Loops;
 
 public class PrintFrom1ToN {
     public static void main(String[] args) {

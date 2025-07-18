@@ -1,4 +1,4 @@
-package ForLoop.Pattern;
+package Loops.Pattern;
 
 public class FloydTrianglePattern {
     public static void main(String[] args) {

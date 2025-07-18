@@ -1,4 +1,4 @@
-package ForLoop;
+package Loops;
 
 public class SumOfNaturalNumbers {
     public static void main(String[] args) {
