@@ -1,6 +1,6 @@
 /* This wrapping of data which cannot be accessed by outside world is called data encapsulation */
 
-package OOPS;
+package OOPS.Encapsulation;
 
 public class Encapsulation {
     // below data cannot be accessed
